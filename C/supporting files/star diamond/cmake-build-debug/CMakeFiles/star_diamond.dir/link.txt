@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\star_diamond.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\star_diamond.dir/objects.a @CMakeFiles\star_diamond.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\star_diamond.dir/objects.a -Wl,--no-whole-archive  -o star_diamond.exe -Wl,--out-implib,libstar_diamond.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\star_diamond.dir\linklibs.rsp

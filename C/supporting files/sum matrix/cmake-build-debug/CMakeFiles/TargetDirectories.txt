@@ -1,0 +1,3 @@
+D:/c projects/clion/C programming/sum matrix/cmake-build-debug/CMakeFiles/sum_matrix.dir
+D:/c projects/clion/C programming/sum matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c projects/clion/C programming/sum matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

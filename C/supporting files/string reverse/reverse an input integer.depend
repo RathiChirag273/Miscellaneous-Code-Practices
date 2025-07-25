@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1601893446 source:f:\c projects\practicals\reverse an input integer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601893446 source:f:\c projects\practicals\string reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

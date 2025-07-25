@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602675631 source:f:\c projects\practicals\numerical reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
